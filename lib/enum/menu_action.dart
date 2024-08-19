@@ -1,0 +1,1 @@
+enum MenuAction { profile, diagnosis, logout, }
